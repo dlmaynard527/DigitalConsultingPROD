@@ -2,5 +2,3 @@ yfinance
 matplotlib
 pillow
 Image
-ImageFont
-ImageDraw 
