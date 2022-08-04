@@ -2,4 +2,3 @@ yfinance
 matplotlib
 pillow
 Image
-PIL
