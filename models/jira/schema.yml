@@ -1,0 +1,12 @@
+version: 2
+
+models:
+    - name: test
+      description: "test model"
+
+sources:
+  - name: summit
+    database: hr_prod
+    schema: summit
+    tables:
+      - name: new_view
