@@ -3,6 +3,8 @@ version: 2
 models:
     - name: test
       description: "test model"
+    - name: jira_combination
+      description: "this is to test if documentation gets updated"
 
 sources:
   - name: summit
