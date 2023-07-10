@@ -1,4 +1,4 @@
-orders as (
+with orders as (
 
     select * from {{ ref('test') }}
 ),
