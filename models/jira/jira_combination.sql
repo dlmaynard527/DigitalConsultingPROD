@@ -5,7 +5,7 @@ orders as (
 
 test as (
     select * from {{source('summit','new_view')}}
-)
+),
 
 final as (
     select * from test
